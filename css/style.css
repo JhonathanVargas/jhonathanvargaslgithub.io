@@ -129,7 +129,7 @@ article h3{
 .z{
 
 
-	background:  rgba(0,0,0,0.4) url(../img/m4.jpg);
+	background:  rgba(0,0,0,0.4) url(../img/m4.webp);
 	background-blend-mode: darken;
 	  /*especifica el tamaña de las imagenes de para la pagina */
 	text-align: center;
@@ -235,7 +235,7 @@ article h3{
 
 .w{
 width: 100%;
-	background:  rgba(0,0,0,0.7)  url(../img/m5.jpg);
+	background:  rgba(0,0,0,0.7)  url(../img/m5.webp);
 	background-size: cover;
 	background-blend-mode: darken;
 	position: relative;
